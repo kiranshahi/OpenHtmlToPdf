@@ -8,11 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenHtmlToPdf", "OpenHtmlToPdf.Core\OpenHtmlToPdf.csproj", "{A06550F3-E20C-4600-BCC9-164332C9BB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenHtmlToPdf", "OpenHtmlToPdf\OpenHtmlToPdf.csproj", "{A06550F3-E20C-4600-BCC9-164332C9BB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenHtmlToPdf.WkHtmlToPdf", "OpenHtmlToPdf.WkHtmlToPdf.Core\OpenHtmlToPdf.WkHtmlToPdf.csproj", "{49787F61-6DCC-4686-A648-6B0F6511A104}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenHtmlToPdf.WkHtmlToPdf", "OpenHtmlToPdf.WkHtmlToPdf\OpenHtmlToPdf.WkHtmlToPdf.csproj", "{49787F61-6DCC-4686-A648-6B0F6511A104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenHtmlToPdf.Tests.Core", "OpenHtmlToPdf.Tests.Core\OpenHtmlToPdf.Tests.Core.csproj", "{3AB07E96-7FD0-4EAA-B670-062989B61EA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenHtmlToPdf.Tests", "OpenHtmlToPdf.Tests\OpenHtmlToPdf.Tests.csproj", "{3AB07E96-7FD0-4EAA-B670-062989B61EA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
